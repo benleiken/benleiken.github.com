@@ -1,8 +1,7 @@
 h1 {
-
-
-
-
+text-shadow: 0.1em 0.1em #333;
+font: arial;
+font-size: 48px;
 }
 h2{
 }
@@ -11,3 +10,14 @@ h3{
 a{
 }
 
+#profpic{
+
+}
+.center{
+float:center;
+
+}
+
+.right{
+float:right;
+}
