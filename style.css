@@ -54,6 +54,10 @@ a:active {color:#0000FF;}
 float:center;
 
 }
+img{
+ display: block;
+    margin-left: auto;
+    margin-right: auto; }
 .center{
 float:center;
 
