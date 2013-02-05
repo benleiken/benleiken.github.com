@@ -1,5 +1,5 @@
 h1 {
-text-shadow: 0.1em 0.1em #333;
+text-shadow: 0.5em 0.5em #333;
 font: arial;
 font-size: 48px;
 }
@@ -7,8 +7,14 @@ h2{
 }
 h3{
 }
-a{
-}
+a:link{
+font: helvetica;
+font-size: 32px; 
+color:#000000;}
+a:visited {color:#000000;}
+a:hover {color:#FF00FF;}
+a:active {color:#0000FF;}
+
 
 #profpic{
 
@@ -20,4 +26,8 @@ float:center;
 
 .right{
 float:right;
+}
+
+.left{
+float:left;
 }
