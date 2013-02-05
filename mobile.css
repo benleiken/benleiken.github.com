@@ -1,0 +1,60 @@
+body{
+background-color:#CCFFFF;
+}
+h1 {
+text-shadow: 0.1em 0.1em 0.05em #333;
+font: arial;
+font-size: 48px;
+color:#0066FF;
+text-align:center;
+}
+h2{
+color:#000000
+font-size: 28px;
+}
+h3{
+font-size: 20px;
+}
+p{
+font-size: 14px;
+}
+ 
+#major{
+font-weight:bold;
+}
+#minors{
+font-weight:italic;
+}
+#gpa{
+font-weight bold,italic;
+
+}
+
+.title{
+font-weight:bold;
+font-size:18px;
+}
+
+.tricol{
+-moz-column-count:3; /* Firefox */
+-webkit-column-count:3; /* Safari and Chrome */
+column-count:3;
+
+}
+
+a:link{
+font: helvetica;
+font-size: 32px; 
+color:#000000;}
+a:visited {color:#000000;}
+
+
+#profpic{
+float:center;
+
+}
+img{
+ display: block;
+    margin-left: auto;
+    margin-right: auto; }
+
